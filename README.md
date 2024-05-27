@@ -1,7 +1,7 @@
 # Sistema de Gerenciamento de Doações
 
 ## Descrição
-Este projeto é um sistema simples de gerenciamento de doações desenvolvido em Java. Ele permite o cadastro de doadores, voluntários e instituições de caridade, bem como o registro e visualização de doações.
+Este projeto é um sistema simples de gerenciamento de doações desenvolvido em Java inspirado na situação que está ocorrendo no Rio Grande do Sul desenvolvido em Java. Ele permite o cadastro de doadores, voluntários e instituições de caridade, bem como o registro e visualização de doações.
 
 ## Funcionalidades
 1. **Cadastro de Usuários:**
